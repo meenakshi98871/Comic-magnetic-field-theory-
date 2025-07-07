@@ -39,3 +39,14 @@
 🖼 Images & Diagrams Generated (by ChatGPT)
 
 All images below were AI-generated for educational use 
+---
+
+## 📄 Author
+Meenakshi Kumawat 
+2nd Year Computer Engineering Student  
+[GitHub Profile](https://github.com/meenakshi98871)
+
+ 🔐 License
+This research is licensed under the *CC BY-NC 4.0* license.  
+You are free to share and adapt this work with credit, but not for commercial use.  
+🔗 [View License Terms](https://creativecommons.org/licenses/by-nc/4.0/)
